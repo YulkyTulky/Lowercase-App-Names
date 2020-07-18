@@ -1,0 +1,9 @@
+Package: com.yulkytulky.lowercaseappnames
+Name: Lowercase App Names
+Depends: mobilesubstrate
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Make application names lowercase on the homescreen
+Maintainer: YulkyTulky
+Author: YulkyTulky
+Section: Tweaks
